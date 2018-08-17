@@ -1,4 +1,4 @@
-# my-books
+# My books
 Seleção dos meus livros de HTML, CSS e JS
 <p><strong>Tabela de livros e exercícios</strong></p>
 <table>
