@@ -1,5 +1,5 @@
 # My books
-Seleção dos meus livros de HTML, CSS e JS
+Seleção dos meus livros de HTML, CSS e JS. Esta seleção serão feitos repositórios os quais haverão exercícios feitos dos livros.
 <p><strong>Tabela de livros e exercícios</strong></p>
 <table>
     <thead>
