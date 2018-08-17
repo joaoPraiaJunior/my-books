@@ -15,7 +15,7 @@ Seleção dos meus livros de HTML, CSS e JS. Esta seleção serão feitos reposi
             <td>Use a Cabeça! Programação Javascript</td>
             <td> Eric Freeman</td>
             <td>2016</td>
-            <td>Indisponível</td>
+            <td><a href="https://github.com/joaoPraiaJunior/Use-a-Cabe-a-Programa-o-Javascript">Acesso</a></td>
         </tr>
     </tbody>
 </table>
